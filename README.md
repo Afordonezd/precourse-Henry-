@@ -1,2 +1,1 @@
-# precourse-Henry-
-este un repositorio de prueba del precurso de henry
+este proyecto es como crear un repositorio desde gifhub y clonarlo
